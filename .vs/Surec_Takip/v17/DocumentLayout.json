@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SEYFULLAH\\Desktop\\Visual2019\\Surec_Takip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D33422B5-D975-4D46-B299-D4245E8C4A63}|Surec_Takip\\Surec_Takip.csproj|c:\\users\\seyfullah\\desktop\\visual2019\\surec_takip\\surec_takip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33422B5-D975-4D46-B299-D4245E8C4A63}|Surec_Takip\\Surec_Takip.csproj|solutionrelative:surec_takip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33422B5-D975-4D46-B299-D4245E8C4A63}|Surec_Takip\\Surec_Takip.csproj|C:\\Users\\SEYFULLAH\\Desktop\\Visual2019\\Surec_Takip\\surec_takip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D33422B5-D975-4D46-B299-D4245E8C4A63}|Surec_Takip\\Surec_Takip.csproj|solutionrelative:surec_takip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33422B5-D975-4D46-B299-D4245E8C4A63}|Surec_Takip\\Surec_Takip.csproj|c:\\users\\seyfullah\\desktop\\visual2019\\surec_takip\\surec_takip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33422B5-D975-4D46-B299-D4245E8C4A63}|Surec_Takip\\Surec_Takip.csproj|solutionrelative:surec_takip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\Visual2019\\Surec_Takip\\Surec_Takip\\Program.cs",
+              "RelativeDocumentMoniker": "Surec_Takip\\Program.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\Visual2019\\Surec_Takip\\Surec_Takip\\Program.cs",
+              "RelativeToolTip": "Surec_Takip\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:12:08.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\Visual2019\\Surec_Takip\\Surec_Takip\\Form1.cs",
+              "RelativeDocumentMoniker": "Surec_Takip\\Form1.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\Visual2019\\Surec_Takip\\Surec_Takip\\Form1.cs",
+              "RelativeToolTip": "Surec_Takip\\Form1.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwFwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T13:00:19.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\Visual2019\\Surec_Takip\\Surec_Takip\\Form1.cs",
+              "RelativeDocumentMoniker": "Surec_Takip\\Form1.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\Visual2019\\Surec_Takip\\Surec_Takip\\Form1.cs [Design]",
+              "RelativeToolTip": "Surec_Takip\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T12:59:33.654Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
